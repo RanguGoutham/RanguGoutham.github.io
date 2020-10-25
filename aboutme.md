@@ -35,5 +35,4 @@ I have some issues remembering stuff(verbally) so I finally thought to blog it d
 \\
 \\
 \\
-
 Thanks to  [Frederik Kratzert](https://github.com/kratzert) for the blog template
