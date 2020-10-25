@@ -8,6 +8,11 @@ comments: true
 
 ## Intuition
 Let us consider a simple example of regression with the following assumptions\
+\begin{align*}
+x \in R^{n}
+y \in R
+
+\end{align*}
 In maximum likelihood estimaiton we maximise the likelihood of the data given the parameters, where as in maximum apostriori we assume a prior on the parameters and try to find the posterior. 
 To model the 
 
