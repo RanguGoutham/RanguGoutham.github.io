@@ -1,12 +1,16 @@
 ---
 layout: "post"
-title: "Understanding the backward pass through Batch Normalization Layer"
-date: "2016-02-12 13:54"
-excerpt: "An explanation of gradient flow through BatchNorm-Layer following the circuit representation learned in Standfords class CS231n."
+title: "Gaussian Process "
+date: ""
+excerpt: "A Bayesian Non-Parametric Approach to regression"
 comments: true
 ---
 
-At the moment there is a wonderful course running at Standford University, called [CS231n - Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/), held by Andrej Karpathy, Justin Johnson and Fei-Fei Li. Fortunately all the [course material](http://cs231n.stanford.edu/syllabus.html) is provided for free and all the lectures are recorded and uploaded on [Youtube](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC). This class gives a wonderful intro to machine learning/deep learning coming along with programming assignments.
+## Intuition
+Let us consider a simple example of regression with the following assumptions\
+In maximum likelihood estimaiton we maximise the likelihood of the data given the parameters, where as in maximum apostriori we assume a prior on the parameters and try to find the posterior. 
+To model the 
+
 
 ## Batch Normalization
 

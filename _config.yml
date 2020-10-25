@@ -23,9 +23,10 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "me"
-  Open Learning: "ML"
-  Projects: "Biology"
+  About Me: "aboutme"
+  ML: "ML"
+  DL: "DL"
+  Bio: "Biology"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
@@ -57,11 +58,11 @@ avatar: "/img/avatar.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Frederik Kratzert
-  email: "f.kratzert@gmail.com"
-  github: kratzert
-  twitter: fkratzert
-  linkedin: frederik-kratzert-226a33148
+  name: Goutham Rangu
+  email: "goutham.rangu@nokia.com"
+  github: RanguGoutham
+  twitter: None
+  linkedin: rangu-goutham-51957395
   xing: yourname
   stackoverflow: yourlink
 
@@ -71,7 +72,7 @@ footer-links-active:
   rss: true
   facebook: false
   email: true
-  twitter: true
+  twitter: false
   github: true
   linkedin: true
   xing: false
@@ -87,11 +88,11 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "kratzert.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "rangugoutham.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "kratzertblog"
+disqus: "Dumbu"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-96660715-1"
@@ -113,7 +114,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/Berlin"
+timezone: "Europe/Helsinki"
 markdown: kramdown
 highlighter: rouge
 #permalink: /:year/:month/:day/:title/.html
