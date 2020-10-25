@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7f0a33a-0330-4acc-855f-08eb833f6730" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Biology.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MATH.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ML.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Random.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020/2020-10-02-Gaussian-Process.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016/Gaussian_Process.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016/alpha.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-02-24-finetuning-alexnet-with-tensorflow.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-06-15-example-of-tensorflows-new-input-pipeline.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-09-11-speeding-up-tensorflows-input-pipeline.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-09-12-introduction-to-the-numba-library.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-09-21-numba-series-part-1-the-jit-decorator-and-some-more-numba-basics.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-09-25-numba-series-part-2-custom-data-types-and-parallelization.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutme.md" beforeDir="false" afterPath="$PROJECT_DIR$/aboutme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020/2020-10-02-Gaussian-Process.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020/2020-10-02-Gaussian-Process.markdown" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,11 +26,18 @@
         <entry file="file://$PROJECT_DIR$/_posts/2020/2020-10-02-Gaussian-Process.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
               </first_editor>
               <second_editor />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/feed.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-113" />
           </provider>
         </entry>
       </file>
@@ -157,6 +149,11 @@
               <item name="RanguGoutham.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
               <item name="2020" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RanguGoutham.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RanguGoutham.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RanguGoutham.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -346,11 +343,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/feed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2020/2020-10-02-Gaussian-Process.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
           </first_editor>
           <second_editor />
         </state>
