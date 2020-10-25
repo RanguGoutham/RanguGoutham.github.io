@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7f0a33a-0330-4acc-855f-08eb833f6730" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016/2016-02-12-understanding-the-gradient-flow-through-the-batch-normalization-layer.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016/Gaussian_Process.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016/Gaussian_Process.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016/Gaussian_Process.markdown" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +35,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016/Gaussian_Process.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="195">
-                <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -174,8 +173,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016/Gaussian_Process.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="195">
-            <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
