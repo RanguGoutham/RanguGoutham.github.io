@@ -17,10 +17,6 @@ $$
       \vdots & \ddots & \vdots \\
       \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
     \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\
-      \vdots \\
-      y_n
-    \end{array} \right)
+  
 \end{aligned}
 $$

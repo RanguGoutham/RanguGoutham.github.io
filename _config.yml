@@ -209,6 +209,7 @@ prose:
           help: "Check to publish post, uncheck to hide."
 
 plugins:
+  - jekyll-sitemap
   - jekyll-paginate
 
 # Beautiful Jekyll / Dean Attali
