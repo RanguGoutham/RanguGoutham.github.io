@@ -8,6 +8,8 @@ comments: true
 
 ## Intuition
 
+$$f(\mathbf{x}) = \sum_{i=1}^{N}w_i(\mathbf{x})y_i$$
+
 $$
 \begin{aligned}
   & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
@@ -17,6 +19,10 @@ $$
       \vdots & \ddots & \vdots \\
       \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
     \end{array} \right)
-  
+  \left( \begin{array}{c}
+      y_1 \\
+      \vdots \\
+      y_n
+    \end{array} \right)
 \end{aligned}
 $$
