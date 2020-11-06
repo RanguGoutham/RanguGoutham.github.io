@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Gaussian Processes"
-date: ""
+
 excerpt: "A Bayesian Non-Parametric Approach in ML"
 comments: true
 ---
