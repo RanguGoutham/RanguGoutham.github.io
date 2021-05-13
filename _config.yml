@@ -60,7 +60,7 @@ avatar: ""
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Goutham Rangu
-  email: "goutham.rangu@nokia.com"
+  email: "edugoutham@gmail.com"
   github: RanguGoutham
   twitter: None
   linkedin: rangu-goutham-51957395
@@ -96,7 +96,7 @@ url-pretty: "rangugoutham.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "Dumbu"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-96660715-1"
+google_analytics: "G-TB5857V9J4"
 
 # Google Tag Manager ID
 #gtm: ""

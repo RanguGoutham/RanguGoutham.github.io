@@ -8,7 +8,7 @@ comments: true
 
 ## Intuition
 
-
+Homoscedastic vs Heteroscedastic
 
 $$
 \begin{aligned}
