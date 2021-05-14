@@ -10,8 +10,7 @@ The learning happens over a set of hypothesis functions (H) and the outcome is a
 to the target function (t). The target function (t) is an unknown function that represents the exact mapping in the data (D).
 
 
-
 <div class="fig figcenter fighighlight">
-  <img src="/images/bn_backpass/1.png">
+  <img src="/images/wwhml/1.png">
 </div>
 

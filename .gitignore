@@ -3,3 +3,4 @@ _site/
 .sass-cache/
 res/*
 .idea/*
+full_push.sh
