@@ -5,3 +5,5 @@ title: "Generative Adversarial Networks"
 excerpt: ""
 comments: true
 ---
+Lets first try to understand the difference between generative modelling vs discriminative modelling. Given
+a set of examples 
