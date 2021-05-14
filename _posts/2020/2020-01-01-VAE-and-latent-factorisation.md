@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "ValueIteration"
+title: "All about VAEs"
 
 excerpt: "MDPS"
 comments: true

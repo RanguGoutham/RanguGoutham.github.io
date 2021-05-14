@@ -1,8 +1,8 @@
 ---
 layout: "post"
-title: "Gaussian Processes"
+title: "Static vs Dynamic libraries in C++"
 
-excerpt: "A Bayesian Non-Parametric Approach in ML"
+excerpt: ""
 comments: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "post"
-title: "Gaussian Processes"
+title: "Measurement and Uncertainty"
 
-excerpt: "A Bayesian Non-Parametric Approach in ML"
+excerpt: ""
 comments: true
 ---
