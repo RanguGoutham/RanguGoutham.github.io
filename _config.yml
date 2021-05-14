@@ -26,7 +26,7 @@ navbar-links:
   About Me: "aboutme"
   ML&DL: "ML"
   MATH: "MATH"
-  Bio: "Biology"
+  Cog: "Cognitive"
   Random: "Random"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -89,7 +89,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "rangugoutham.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "rangugoutham.github.io"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
