@@ -12,6 +12,6 @@ tries to do the best mapping by learning the patterns present in the data.
 
 
 <div class="fig figcenter fighighlight">
-  <img src="/images/bn_backpass/1.PNG">
+  <img src="/images/bn_backpass/1.png">
 </div>
 
