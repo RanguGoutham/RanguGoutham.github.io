@@ -20,10 +20,11 @@ Supervised learning algorithms use labelled data to generate a hypothesis functi
 considering a Hypothesis set, the perceptrons, where in case of linearly separable dataset(D) the perceptron learning algorithm 
 can successfully navigate ths Hypothesis space and arrives at a solution (h).  
 
+> Perceptron learning
 >*Dataset* *D* : {*(**x**<sub>1</sub>, y<sub>1</sub>), (**x**<sub>2</sub>, y<sub>2</sub>), (**x**<sub>3</sub>, y<sub>3</sub>), ..... (**x**<sub>N</sub>, y<sub>N</sub>)*}<br />
 >*Hypothesis set* *H* : sign(**w**<sup>T</sup>**x**)
 >> perceptron implements _h(**x**)_ = sign(**w**<sup>T</sup>**x**)
->>> pick a misclassified sample *(**x**<sub>i</sub>, y<sub>i</sub>)* : *y<sub>i</sub>* != sign(**w**<sup>T</sup>**x**<sub>i</sub>)
+>>> pick a misclassified sample *(**x**<sub>i</sub>, y<sub>i</sub>)* : *y<sub>i</sub>* != sign(**w**<sup>T</sup>**x**<sub>i</sub>)<br />
 >>> update the weight vector <span style="color:green"> **w** </span> = <span style="color:red">**w**</span> + *y<sub>i</sub>* ***x**<sub>i</sub>* 
 
  
