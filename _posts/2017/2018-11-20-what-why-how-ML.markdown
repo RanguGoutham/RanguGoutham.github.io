@@ -12,8 +12,7 @@ can determine the existence of the pattern and we can measure the amount of lear
 The learning happens over a set of Hypothesis functions (H) and the outcome is a final hypothesis function(h) that is nearly similar
 to the target function (t). The target function (t) is an unknown function that represents the exact mapping in the data (D).
 </div>
-
-
+<br />
 <div class="fig figcenter fighighlight">
   <img src="/images/wwhml/1.png"  width="300" height="300">
 </div>
